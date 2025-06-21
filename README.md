@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mmeso
 
-<!--
-**Mmecho20/Mmecho20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Political Science student with a passion for technology  
+💻 Aspiring developer exploring the intersection of governance and tech  
+🌍 Interested in using code to solve real-world problems  
+📚 Currently learning programming and building my technical skills  
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🔭 Learning foundational programming concepts
+- 🌱 Exploring different programming languages and frameworks
+- 💡 Building projects that combine my interest in politics and technology
+- 📖 Studying how tech can improve governance and civic engagement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- **Political Science**: Governance, policy analysis, civic technology
+- **Technology**: Web development, data analysis, Ui/Ux, digital solutions
+- **Impact**: Using technology to create positive social change
+
+## Let's Connect!
+- 💬 Ask me about the intersection of politics and technology
+- 📫 How to reach me: [mfme.okafor@stu.unizik.edu.ng]
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm passionate about bridging the gap between traditional governance and modern technology
+
+## Current Learning Journey
+```
+Political Science Student → Tech Enthusiast → Future Developer
+```
+
+---
+*"Technology is best when it brings people together." - Matt Mullenweg*
